@@ -1,3 +1,3 @@
-# aboutme
+# About DAB
 
-David Bartizals abot me page.
+David Bartizal's about me page.
